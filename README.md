@@ -10,7 +10,13 @@ Daniel Pareja y Juan Felipe Gomez
 # Problema 1
 
 Solucion:
+Prototype
+<br>
+Factory Method
+<br>
+Facade
 
+![prototype](EJERCICIO1_SOLUCION.png)
 <hr>
 
 # Problema 2
