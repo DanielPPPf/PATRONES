@@ -1,0 +1,14 @@
+package EJERCICIO3;
+
+public class OrderFood extends Order {
+    
+    @Override
+    protected void takeOrder() {
+        System.out.println("Tomando orden de la comida");
+    }
+    
+    @Override
+    protected void prepareOrder() {
+        System.out.println("Preparando la comida");
+    }
+}

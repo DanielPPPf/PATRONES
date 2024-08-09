@@ -1,0 +1,18 @@
+package EJERCICIO3;
+
+public class Main {
+    public static void main(String[] args) {
+        Order foodOrder = new OrderFood();
+        foodOrder.processOrder();
+        
+        System.out.println(); 
+        
+        Order beverageOrder = new OrderBeverage();
+        beverageOrder.processOrder();
+        
+        System.out.println();
+        
+        Order dessertOrder = new OrderDessert();
+        dessertOrder.processOrder();
+    }
+}
