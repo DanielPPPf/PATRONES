@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package ejercicio3;
 
 public class OrderFood extends Order {
     

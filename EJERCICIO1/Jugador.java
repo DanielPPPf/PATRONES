@@ -1,4 +1,4 @@
-package EJERCICIO1;
+package ejercicio1;
 
 public class Jugador {
     private int ID;

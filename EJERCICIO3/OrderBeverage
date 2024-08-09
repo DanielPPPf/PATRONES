@@ -1,6 +1,4 @@
-package PATRONES.EJERCICIO3;
-
-public package EJERCICIO3;
+package ejercicio3;
 
 public class OrderBeverage extends Order {
     
@@ -13,8 +11,4 @@ public class OrderBeverage extends Order {
     protected void prepareOrder() {
         System.out.println("Preparando la bebida");
     }
-}
-
-{
-    
 }

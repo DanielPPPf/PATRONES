@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package ejercicio3;
 
 public abstract class Order {
     
