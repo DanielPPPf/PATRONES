@@ -5,7 +5,7 @@ Daniel Pareja y Juan Felipe Gomez
 
 <hr>
 
-<br><br><br>
+<br><br>
 
 # Problema 1
 
