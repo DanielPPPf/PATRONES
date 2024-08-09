@@ -16,6 +16,7 @@ Prototype
 Factory Method
 <br>
 Facade
+<br>
 ![Ejercicio 1](ejercicio1/EJERCICIO1_SOLUCION.png)
 <hr>
 
@@ -24,6 +25,7 @@ Facade
 Solucion: 
 
 Observer
+<br>
 ![Ejercicio 2](ejercicio2/EJERCICIO2.png)
 
 <hr>
