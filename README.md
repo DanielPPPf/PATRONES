@@ -15,8 +15,7 @@ Prototype
 Factory Method
 <br>
 Facade
-
-![prototype](EJERCICIO1_SOLUCION.png)
+![Ejercicio 1](ejercicio1/EJERCICIO1_SOLUCION.png)
 <hr>
 
 # Problema 2
