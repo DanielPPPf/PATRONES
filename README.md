@@ -3,6 +3,10 @@
 Integrantes: 
 Daniel Pareja y Juan Felipe Gomez
 
+
+
+
+
 # Problema 1
 
 Solucion:
