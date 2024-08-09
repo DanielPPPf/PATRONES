@@ -1,5 +1,6 @@
-# PATRONES
-Trabajo #2 patrones de diseño
+# PATRONES DE DISEÑO
 
-Integrantes: Daniel Pareja y Juan Felipe Gomez
+Integrantes: 
+Daniel Pareja 
+Juan Felipe Gomez
 
