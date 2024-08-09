@@ -10,6 +10,7 @@ Daniel Pareja y Juan Felipe Gomez
 # Problema 1
 
 Solucion:
+<Br>
 Prototype
 <br>
 Factory Method
@@ -20,7 +21,10 @@ Facade
 
 # Problema 2
 
-Solucion:
+Solucion: 
+
+Observer
+![Ejercicio 2](ejercicio2/EJERCICIO2.png)
 
 <hr>
 
