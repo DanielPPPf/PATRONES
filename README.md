@@ -1,6 +1,5 @@
 # PATRONES DE DISEÑO
 
 Integrantes: 
-Daniel Pareja 
-Juan Felipe Gomez
+Daniel Pareja y Juan Felipe Gomez
 
