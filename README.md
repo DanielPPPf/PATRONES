@@ -23,7 +23,6 @@ Facade
 # Problema 2
 
 Solucion: 
-
 Observer
 <br>
 ![Ejercicio 2](ejercicio2/EJERCICIO2.png)
