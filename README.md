@@ -24,6 +24,7 @@ Facade
 
 Solucion: 
 Observer
+
 <br>
 ![Ejercicio 2](ejercicio2/EJERCICIO2.png)
 
