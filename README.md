@@ -40,3 +40,11 @@ Template Method
 # Problema 4
 
 Solucion:
+Command
+
+<hr>
+
+# Problema 5
+
+Solucion:
+
