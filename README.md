@@ -39,6 +39,7 @@ Template Method
 # Problema 4
 
 Solucion:
+
 Command
 
 <hr>
@@ -46,4 +47,8 @@ Command
 # Problema 5
 
 Solucion:
+
+Decorator
+
+![Decorator](ejercicio5/EJERCICIO5.png)
 
