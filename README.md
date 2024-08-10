@@ -34,6 +34,8 @@ Observer
 Solucion:  
 Template Method
 
+![Template](ejercicio3/ejercicio3.jpeg)
+
 <hr>
 
 # Problema 4
@@ -42,6 +44,7 @@ Solucion:
 
 Command
 
+![Command](ejercicio4/ejercicio4.jpeg)
 <hr>
 
 # Problema 5
